@@ -113,7 +113,6 @@ While automation and job displacement are real, the data shows a parallel rise i
 
 ---
 
-## 👤 Author
-**Your Name**  
-Data Analyst | AI & Workforce Analytics Enthusiast  
+Link to Tableau : https://public.tableau.com/app/profile/shreya.baral/viz/AIAdoptionandJobs/Dashboard1
+ 
 
